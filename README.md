@@ -1,6 +1,5 @@
 ### Sales Analysis for E-commerce ###
 
-Description: Provide a brief overview of the project.
 
  "This project analyzes sales data for an e-commerce platform. The analysis focuses on product sales performance, sales trends over time, and other key metrics that can help optimize business decisions."
 CSV Structure: Describe the structure of your CSV file.
